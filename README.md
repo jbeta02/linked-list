@@ -1,3 +1,3 @@
 # linked-list
 
-#### Linked List and Double Linked List implementation Data Structures and Algorithm Analysis class
+#### Linked List and Double Linked List implementation for Data Structures and Algorithm Analysis class
